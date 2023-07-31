@@ -12,6 +12,11 @@ Profissional apaixonado por tecnologia e vontade de se manter atualizado com as 
 - 🌱 Estou aprendendo sobre as tecnologias DevSecOps
 - 💞️ Me disponho a colaborar compartilhando conhecimento
 
+<!---
+https://dev.to/envoy_/150-badges-for-github-pnk#skills
+
+--->
+
 ## SD Skills
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
