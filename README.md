@@ -4,8 +4,12 @@
  <img src="https://media.licdn.com/dms/image/D4D16AQGGF30N7eQSdw/profile-displaybackgroundimage-shrink_350_1400/0/1687538926859?e=1696464000&v=beta&t=5fliOU-4NYRyZWv6RFHiHzwB_VrwHVlisatcLoRIwi0"/>
 </p>
 
-Olá, eu sou @JGuanais
-Profissional apaixonado por tecnologia e vontade de se manter atualizado com as tendências emergentes, certificado SCRUM, ITIL® e PMP®.   Liderança técnica, apoiando, direcionando, influenciando e incentivando equipes a atingirem metas. Experiência em liderar equipes multidisciplinares durante toda a jornada de projetos para que o objetivo desejado pela empresa seja alcançado. Perfil hands on, persistência e resiliência são algumas de minhas características.  Formação e manutenção de Talentos, Visão estratégica, senso de dono.
+
+Olá, eu sou @JGuanais, desenvolvedor apaixonado por tecnologia e com muita vontade de se manter atualizado com as tendências emergentes. Sou certificado SCRUM, ITIL® e PMP®. Tenho experiência em liderar equipes multidisciplinares durante toda a jornada de projetos, desde o início até o fim. Sou capaz de apoiar, direcionar, influenciar e incentivar equipes a atingirem metas. Possuo perfil hands on, persistência e resiliência. Também sou capaz de formar e manter talentos, ter visão estratégica e senso de dono.
+
+Para os curiosos, já desenvoli sistemas para os mais diversos fins utilizando inúmeras IDEs, Linguagens e Banco de Dados, até que virei Gestor de TI. :japanese_ogre: Hoje desenvolvo por hobby e principalmente para me manter atualizado com as novas tecnologias.
+
+Cobol, Pascal, Clipper, ZIM, Centura, HTML, CSS, JavaScript, Classic ASP, C, C++, foram algumas das linguagens que programei. Neste momento minha diversão é com Python e suas inúmeras bibliotecas. :zany_face:  
 
 ## Detalhes
 - 🌱 Atualmente estou estudando um pouco mais sobre Python, AWS, GCP e AZURE
