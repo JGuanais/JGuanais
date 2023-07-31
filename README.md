@@ -1,4 +1,4 @@
-<h1 align="center">Welcome!</h1>
+<h1 align="center">Jair Guanais</h1>
 
 <p align="center">
  <img src="https://media.licdn.com/dms/image/D4D16AQGGF30N7eQSdw/profile-displaybackgroundimage-shrink_350_1400/0/1687538926859?e=1696464000&v=beta&t=5fliOU-4NYRyZWv6RFHiHzwB_VrwHVlisatcLoRIwi0"/>
@@ -11,10 +11,6 @@ Profissional apaixonado por tecnologia e vontade de se manter atualizado com as 
 - 🌱 Atualmente estou estudando um pouco mais sobre Python, AWS, GCP e AZURE
 - 🌱 Estou aprendendo sobre as tecnologias DevSecOps
 - 💞️ Me disponho a colaborar compartilhando conhecimento
-
-## Social
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Lihkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## SD Skills
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -42,11 +38,10 @@ Profissional apaixonado por tecnologia e vontade de se manter atualizado com as 
 ![Visua Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JGuanais&show_icons=true&theme=transparent)
+<!--- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JGuanais&show_icons=true&theme=transparent)
 - 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JGuanais&layout=donut&theme=transparent)]
 
-<!---
 JGuanais/JGuanais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
