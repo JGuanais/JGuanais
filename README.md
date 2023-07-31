@@ -42,9 +42,9 @@ Profissional apaixonado por tecnologia e vontade de se manter atualizado com as 
 ![Visua Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jguanais&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JGuanais&show_icons=true&theme=transparent)
 - 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jguanais&layout=donut&theme=transparent)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JGuanais&layout=donut&theme=transparent)]
 
 <!---
 JGuanais/JGuanais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
