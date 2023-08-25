@@ -9,12 +9,15 @@ Olá, eu sou @JGuanais, desenvolvedor apaixonado por tecnologia e com muita vont
 
 Para os curiosos, já desenvoli sistemas para os mais diversos fins utilizando inúmeras IDEs, Linguagens e Banco de Dados, até que virei Gestor de TI. :japanese_ogre: Hoje desenvolvo por hobby e principalmente para me manter atualizado com as novas tecnologias.
 
+Developer since 1986 👵
+
 Cobol, Pascal, Clipper, ZIM, Centura, HTML, CSS, JavaScript, Classic ASP, C, C++, foram algumas das linguagens que programei. Neste momento minha diversão é com Python e suas inúmeras bibliotecas e com Golang que permite desenvolvimento nativo na nuvem. :zany_face:  
 
 ## Detalhes
-- 🌱 Atualmente estou estudando um pouco mais sobre Python, AWS, GCP e AZURE
-- 🌱 Estou aprendendo sobre as tecnologias DevSecOps
-- 💞️ Me disponho a colaborar compartilhando conhecimento
+- 🌱 Atualmente estou estudando um pouco mais sobre Python, Golang, AWS, GCP e AZURE 😎
+- 👽 Estou aprendendo sobre as tecnologias DevSecOps ⭐
+- 💫 Me disponho a colaborar compartilhando conhecimento. 🙆‍♀️
+- ✨ Esta personalização do meu perfil está pública. Pode ser utilizada como referência! Usem sem moderação! 😜
 
 <!---
 https://dev.to/envoy_/150-badges-for-github-pnk#skills
