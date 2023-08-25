@@ -14,7 +14,8 @@ Developer since 1986 👵
 Cobol, Pascal, Clipper, ZIM, Centura, HTML, CSS, JavaScript, Classic ASP, C, C++, foram algumas das linguagens que programei. Neste momento minha diversão é com Python e suas inúmeras bibliotecas e com Golang que permite desenvolvimento nativo na nuvem. :zany_face:  
 
 ## Detalhes
-- 🌱 Atualmente estou estudando um pouco mais sobre Python, Golang, AWS, GCP e AZURE 😎
+- 🌱 Atualmente estou codando em Python e Golang :neckbeard:
+- 💨 Estudo, muito todos os dias, AWS, GCP e AZURE 😎
 - 👽 Estou aprendendo sobre as tecnologias DevSecOps ⭐
 - 💫 Me disponho a colaborar compartilhando conhecimento. 🙆‍♀️
 - ✨ Esta personalização do meu perfil está pública. Pode ser utilizada como referência! Usem sem moderação! 😜
