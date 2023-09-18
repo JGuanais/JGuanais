@@ -5,7 +5,7 @@
 </p>
 
 
-Olá, eu sou @JGuanais, desenvolvedor apaixonado por tecnologia e com muita vontade de se manter atualizado com as tendências emergentes. Sou certificado SCRUM, ITIL® e PMP®. Tenho experiência em liderar equipes multidisciplinares durante toda a jornada de projetos, desde o início até o fim. Sou capaz de apoiar, direcionar, influenciar e incentivar equipes a atingirem metas. Possuo perfil hands on, persistência e resiliência. Também sou capaz de formar e manter talentos, ter visão estratégica e senso de dono.
+Olá, eu sou @JGuanais, desenvolvedor apaixonado pelas novas tecnologias e com muita vontade de se manter atualizado com as tendências emergentes. Sou certificado SCRUM, ITIL® e PMP®. Tenho experiência em liderar equipes multidisciplinares durante toda a jornada de projetos, desde o início até o fim. Sou capaz de apoiar, direcionar, influenciar e incentivar equipes a atingirem metas. Possuo perfil hands on, persistência e resiliência. Também sou capaz de formar e manter talentos, ter visão estratégica e senso de dono.
 
 Para os curiosos, já desenvoli sistemas para os mais diversos fins utilizando inúmeras IDEs, Linguagens e Banco de Dados, até que virei Gestor de TI. :japanese_ogre: Hoje desenvolvo por hobby e principalmente para me manter atualizado com as novas tecnologias.
 
